@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "8L3TlFoc3WQbDzxcjP2tLDB6uKmC47dgMunr3SsexrDaY6zIwi3/qCIIcrtMpVSykG3NhXvZmY8d98Ii71TlmA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\ernes\\Desktop\\TradeStream\\Send\\Send.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ernes\\.nuget\\packages\\rabbitmq.client\\6.6.0\\rabbitmq.client.6.6.0.nupkg.sha512",
+    "C:\\Users\\ernes\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ernes\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\ernes\\Desktop\\source\\repos\\TradeStream\\TradeStream\\TradeStream.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\ernes\\Desktop\\source\\repos\\TradeStream\\TradeStream\\TradeStream.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
