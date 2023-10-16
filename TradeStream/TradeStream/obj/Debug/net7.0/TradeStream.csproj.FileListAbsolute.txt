@@ -1,0 +1,17 @@
+C:\Users\ernes\source\repos\TradeStream\TradeStream\bin\Debug\net7.0\TradeStream.exe
+C:\Users\ernes\source\repos\TradeStream\TradeStream\bin\Debug\net7.0\TradeStream.deps.json
+C:\Users\ernes\source\repos\TradeStream\TradeStream\bin\Debug\net7.0\TradeStream.runtimeconfig.json
+C:\Users\ernes\source\repos\TradeStream\TradeStream\bin\Debug\net7.0\TradeStream.dll
+C:\Users\ernes\source\repos\TradeStream\TradeStream\bin\Debug\net7.0\TradeStream.pdb
+C:\Users\ernes\source\repos\TradeStream\TradeStream\obj\Debug\net7.0\TradeStream.csproj.AssemblyReference.cache
+C:\Users\ernes\source\repos\TradeStream\TradeStream\obj\Debug\net7.0\TradeStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\source\repos\TradeStream\TradeStream\obj\Debug\net7.0\TradeStream.AssemblyInfoInputs.cache
+C:\Users\ernes\source\repos\TradeStream\TradeStream\obj\Debug\net7.0\TradeStream.AssemblyInfo.cs
+C:\Users\ernes\source\repos\TradeStream\TradeStream\obj\Debug\net7.0\TradeStream.csproj.CoreCompileInputs.cache
+C:\Users\ernes\source\repos\TradeStream\TradeStream\obj\Debug\net7.0\TradeStream.dll
+C:\Users\ernes\source\repos\TradeStream\TradeStream\obj\Debug\net7.0\refint\TradeStream.dll
+C:\Users\ernes\source\repos\TradeStream\TradeStream\obj\Debug\net7.0\TradeStream.pdb
+C:\Users\ernes\source\repos\TradeStream\TradeStream\obj\Debug\net7.0\TradeStream.genruntimeconfig.cache
+C:\Users\ernes\source\repos\TradeStream\TradeStream\obj\Debug\net7.0\ref\TradeStream.dll
+C:\Users\ernes\source\repos\TradeStream\TradeStream\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\ernes\source\repos\TradeStream\TradeStream\obj\Debug\net7.0\TradeStream.csproj.CopyComplete
